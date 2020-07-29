@@ -23,7 +23,7 @@ $font-stack: 'Avenir', 'Avenir Next', 'Arial', sans-serif;
     margin-bottom: 30px;
     @include sm-md-xl {
         // set this only if there is a chart title + legend
-        margin-bottom: -33px;
+        // margin-bottom: -33px;
     }
 }
 

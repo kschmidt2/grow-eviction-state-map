@@ -22,7 +22,7 @@ $breakpoint-lg: 717px;
 
 @import "colors";
 
-.chart-area {
+.chart-area-eviction-state-map {
   @import "type";
   @import "highcharts";
 
@@ -52,7 +52,7 @@ $breakpoint-lg: 717px;
     height: 300px;
     margin-top: -10px;
     @include sm-md-xl {
-      height: 400px;
+      height: 420px;
     }
   }
 
